@@ -13,3 +13,4 @@ Todos los datasets e informacion del proyecto fueron tomados de La competición 
 ## Videos
 
 Video segunda entrega: <a href="https://youtu.be/mcdE8w1FBTg">01 - Exploración de datos - Entrega2</a> 
+Video entrega final: <a href="https://youtu.be/TI058UzNhMg">02 - Modelos, enteramiento y conclusiones - Entrega Final</a> 
